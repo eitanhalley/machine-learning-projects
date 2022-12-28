@@ -1,5 +1,5 @@
 # machine-learning-projects
-Ben Gurion University machine learning project
+Ben Gurion University machine learning project,
 In this project I will classify the target variable (house category in Paris, Luxury or Basic ), using the relevant variables from the excel file.
 In part A I have cleaned the data set for part B, there I will use machine learning algorithms to classify the target variable.
 First, I cleaned the data set by filling in the missing variable with different mathematical evaluations.
