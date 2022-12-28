@@ -4,4 +4,4 @@ In this project I will classify the target variable (house category in Paris, Lu
 In part A I have cleaned the data set for part B, there I will use machine learning algorithms to classify the target variable.
 First, I cleaned the data set by filling in the missing variable with different mathematical evaluations.
 Second, I have removed the variables that are not possible, for example, if the size of the basement is bigger than the house size.
-Lastly I will use logistic regression to determine which variables are relevant for the classification of the target variable.
+Lastly I will use logistic regression to determine which variables are relevant for the classification of the target variable and create a knew excel file with with the relevant variables.
